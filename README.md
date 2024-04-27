@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=96d1f8&text=YEWON's_Page)
 
 <div align='center'>
+
+![header](https://capsule-render.vercel.app/api?type=Venom&color=96d1f8&text=YEWON's_Page)
 
 #### 안녕하세요!😊 정보통계학과 32222176 서예원입니다.
 
