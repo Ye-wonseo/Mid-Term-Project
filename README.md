@@ -11,7 +11,7 @@
 - 통계청 재능기부단 (2024/05~)
 - 단국대 DKU PRIDE 서포터즈 1기 (2024/05~)
 - 캄보디아 해외봉사 (2024/06~07)
-- SQLD 개발자
+- SQLD 개발자 자격증
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   
 
