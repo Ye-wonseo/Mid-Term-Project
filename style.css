@@ -49,7 +49,8 @@ h1, h2 {
 }
 
 i {
-    margin-right: 0.5rem;    /* SNS 아이콘 오른쪽 여백 */
+    font-size: 1rem;
+    color: black    /* SNS 아이콘 오른쪽 여백 */
 }
 
 #mainLeft {
