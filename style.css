@@ -50,7 +50,8 @@ h1, h2 {
 
 i {
     font-size: 1rem;
-    color: black    /* SNS 아이콘 오른쪽 여백 */
+    color: black;    /* SNS 아이콘 오른쪽 여백 */
+    margin-right: 0.5rem;
 }
 
 #mainLeft {
